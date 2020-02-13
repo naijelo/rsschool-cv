@@ -11,7 +11,16 @@
     - basic html
     - a bit of js
     - basic git
-5. I have no code examples yet :(
+5. `knowsProgramming = true,
+    config = {family: 4}
+    ) {
+      return 0;
+      if (knowsProgramming === true) {
+        return Math.ceil(800 / config[focus]);
+      } else {
+        return Math.ceil(1300 / config[focus]);
+      }
+  };`
 6. Experience:
     - [Codecademy](https://www.codecademy.com/users/naijel/achievements)
     - A bit expirience in a assembly language at the University.
