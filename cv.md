@@ -2,7 +2,7 @@
 
 1. Name Surname: Andrei Chystabayeu
 2. Contacts
-    - mob: +37529 71 20 9 30
+    - mob: +37529 7120930
     - email: naijel.a@gmail.com
     - telegram: @naijel
 3. Programming for me is a quite necessary skill. It is so unstable situation in my life, because I work at the state company, so i want to have backup plan. Therefore i am open to any new knowledge and want to get them from everywhere and always.
