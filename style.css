@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(19, 122, 156);
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    
+    max-width: 1024px;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(227, 231, 233);
+    width: 100%;
+    font-size: 18px;
+}
+
+section {
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: lightgrey;
+}
+
+aside {
+    text-align: right;
+    height: 100%;
+}
+
+.photo {
+    border-radius: 50%;
+    float: right;
+    margin: 20px 50px;
+    border: 5px solid white;
+    position: sticky; 
+}
+
+p {
+    margin-left: 30px;
+    width 100%;
+}
+
+ul {
+    margin-left: 30px;
+}
